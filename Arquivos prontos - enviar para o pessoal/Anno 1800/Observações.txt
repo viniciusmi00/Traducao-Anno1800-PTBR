@@ -1,0 +1,14 @@
+Para aplicar a tradução, basta copiar as pastas "Bin" e "mods" e colar dentro da raiz do jogo. Deixem a língua padrão como English no Menu do Jogo.
+
+Estou fazendo esta tradução com a ajuda do Google Tradutor para agilizar o processo, caso contrário demoraria meses. 
+Devido a isso, pode ser que encontrem vários erros de tradução ou de variáveis, mas ao decorrer dos dias vou atualizando os arquivos, mas acredito que ja está quase tudo traduzido bem.
+
+Peço que se encontrarem erros e quiserem me reportar, tirem print e me enviem por email para: mennomi00@gmail.com
+
+Fiquem atualizados neste link: https://drive.google.com/drive/folders/1UKZqn715ogmrw6NMQ-lzZqeMQ4_uhFsS?usp=sharing
+
+Obs 2: Eu traduzi do arquivo "texts_english.xml" que fica em "data16.rda/data/config/gui/", que contem 174364 linhas.
+
+Espero ter ajudado.
+
+Vinícius P. Miranda - mennomi00@gmail.com

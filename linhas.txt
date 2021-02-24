@@ -1,0 +1,27 @@
+3 - 99998
+
+
+
+
+
+
+
+
+<GUID>11531</GUID>  95305
+11897
+
+.\r\n    </Text>
+
+.\r\n    </Text>
+
+
+(<.*?(?=mensagem).*?>)(.*?)(<.*?>)|(.*)
+<span id="mensagem" class="topo">Classes e comandos</span>
+
+
+
+^      <GUID>\d+\K\.
+
+
+
+125213 - ./Text

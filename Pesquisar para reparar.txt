@@ -1,0 +1,21 @@
+Hitpoints
+
+
+
+
+Trocar expressões:
+feitoria - Trading Post para Posto Comercial
+Island Workforce - Força de Trabalho da Ilha
+Town Hall - Prefeitura - Câmara Municipal
+Trade Union - Sindicato
+Island Storage - Armazenamento Ilha
+Harbourmaster - Mestre do Porto
+Public Mooring - Ancoradouro Público
+Farm - Fazendeiro - Agricultor
+Artisan - Artesão - Artesã
+Worker - Operário 
+
+
+Linhas a Verificar:
+
+
